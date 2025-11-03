@@ -45,7 +45,7 @@ open index.html
 ```
 (Mac)
 
-##💡 Catatan
+## 💡 Catatan
 
 Proyek ini dibuat sebagai langkah pertama saya dalam mempelajari dasar-dasar web.
 Masih sederhana, tapi menjadi fondasi penting untuk belajar JavaScript, framework frontend, dan backend di masa depan.
